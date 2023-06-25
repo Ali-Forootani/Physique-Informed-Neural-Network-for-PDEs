@@ -66,3 +66,6 @@ The script will perform the training process and save the following files in the
 - `params_collect_<params>.npy`: Numpy array containing the learned parameter values at each epoch during training.
 - `model_u_<params>.pt`: Saved PyTorch model of the primary SIREN network.
 - `<plots>.png`: Plots of the original, noisy, and predicted solutions, as well as the loss curve.
+
+## Inquiry
+you can contact me via: aliforootani@ieee.org
