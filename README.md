@@ -25,9 +25,7 @@ python PINN_CH_1D.py
 All the plots and data files will be automatically stored in the corresponsing results folder.
 
 
-Sure! Here's a sample README file for your Python script:
 
-```
 # AC Equation Solver
 
 This Python script solves the AC equation using the Physics-Informed Neural Networks (PINN) approach. It utilizes the SIREN (Sinusoidal Representation Networks) architecture for modeling the primary and auxiliary variables in the equation.
